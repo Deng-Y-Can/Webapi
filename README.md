@@ -1,10 +1,14 @@
 - 👋 Hi, I’m Candy
-- 👀 I’m interested in the basketball and pingpong
-- 🌱 I’m currently learning C# and java and so on
-- 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me ...
 
-<!---
-Deng-Y-Can/Deng-Y-Can is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+想做一个万能接口
+
+欢迎加入团队~
+=====================================================
+技术交流q群
+
+opengl+opentk(wpf)、webgl等三维渲染交流群 2162023808
+
+opencv+opentk（winfrom）+人工智能交流群  767547407
+
+计算机相关交流群（java、python、net、前端、webgl、go、c、c++等各方面）850307124
